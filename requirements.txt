@@ -9,7 +9,7 @@ Django==1.11.1
 django-allauth==0.32.0
 django-rest-auth==0.9.1
 djangorestframework==3.6.3
-httpie==0.9.9
+httpie==1.0.3
 idna==2.5
 itypes==1.1.0
 Jinja2==2.9.6
